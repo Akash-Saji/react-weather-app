@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akash-Saji/react-weather-app/static/css/main.b923c3e4.css",
+    "main.js": "/Akash-Saji/react-weather-app/static/js/main.53acd7d7.js",
+    "static/js/787.d9312eb8.chunk.js": "/Akash-Saji/react-weather-app/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Akash-Saji/react-weather-app/index.html",
+    "main.b923c3e4.css.map": "/Akash-Saji/react-weather-app/static/css/main.b923c3e4.css.map",
+    "main.53acd7d7.js.map": "/Akash-Saji/react-weather-app/static/js/main.53acd7d7.js.map",
+    "787.d9312eb8.chunk.js.map": "/Akash-Saji/react-weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b923c3e4.css",
+    "static/js/main.53acd7d7.js"
+  ]
+}
