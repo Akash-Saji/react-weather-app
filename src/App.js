@@ -35,7 +35,7 @@ function App()
   };
   return (
 <>
-    <div classNameName="App">
+    <div className="App">
 <div className="box-wrap">
   <input id="toggle" className="toggle" type="checkbox"/>
   <div className="rain">
@@ -246,7 +246,7 @@ function App()
 <div style={{display:"flex", justifyContent:"space-around"}}>
       <h1 style={{color:"white"  }}>Weather Forecast</h1>
       </div>
-      <div style={{display:"flex", justifyContent:"space-around"}}>
+      <div style={{display:"flex", justifyContent:"space-around", padding:"0px",margin:"0px"}}>
       <form onSubmit={handleSearch}>
         <input
           type="text"
@@ -260,7 +260,7 @@ function App()
       {weatherData && (
 <div >
         <div className="" style={{display:"flex", justifyContent:"space-around"}}>
-          <h2 style={{color:"white"}}>Location: {weatherData.resolvedAddress}</h2>
+          <h2 style={{color:"white" ,padding:" 0px 0px 10px 0px",margin:"0px"}}>Location: {weatherData.resolvedAddress}</h2>
          
           </div>
           <div className="weather-details">

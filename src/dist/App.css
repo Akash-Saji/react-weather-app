@@ -82,7 +82,7 @@ body.toggle .grid * {
   transition: box-shadow 0.25s;
   margin: 1em;
   width: 300px;
-  height: 10%;
+  height: 5%;
 }
 .card::before {
   content: "";
