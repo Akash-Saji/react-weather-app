@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Link
 
-[ Click Here ](https://Akash-Saji.github.io/react-movie-site/)
+[ Click Here ](https://Akash-Saji.github.io/react-weather-app/)
 
 ## Available Scripts
 
